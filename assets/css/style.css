@@ -228,7 +228,7 @@ input[type=submit] {
 .sidebar{
 	margin: 5% 5% 40px 5%;
 	margin-left: 5%;
-	max-width: 760px;
+	max-width: 90%;
 }
 
 }
@@ -247,9 +247,9 @@ input[type=submit] {
 .sidebar{
 	margin: 5% 5% 40px 5%;
 	margin-left: 5%;
-	max-width: 760px;
+	max-width: 90%;
 }
-nav {
+nav
 	display: inline-block;
 	float: left;
 	margin-left: 160px;
